@@ -30,7 +30,7 @@
 - Tính điểm và in ra điểm sau mỗi lượt chơi, số điểm cao nhất hiện tại
 - Chơi lại nhiều lần/thoát game
 - Lưu điểm khi trò chơi kết thúc hoặc khi người chơi chủ động thoát trò chơi
-### [Link demo]()
+### [Link demo](https://youtu.be/w9TxHudA7ww)
 ## Các kĩ thuật lập trình đã sử dụng:
 *Game sử dụng ngôn ngữ C/C++*
 - Mảng tĩnh
