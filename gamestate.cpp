@@ -34,7 +34,6 @@ GameState::~GameState()
         delete i;
     }
     delete board;
-    //inGamePausestate->~Pausestate();
     delete inGamePausestate;
     music->deleteAudio();
     music = NULL;

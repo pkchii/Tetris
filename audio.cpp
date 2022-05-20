@@ -57,19 +57,6 @@ bool Audio::loadAudio()
 
 void Audio::deleteAudio()
 {
-    /*Mix_FreeChunk(gMove);
-    Mix_FreeChunk(gRotate);
-    Mix_FreeChunk(gDrop);
-    Mix_FreeChunk(gClear);
-    Mix_FreeChunk(gGameOver);
-    Mix_FreeChunk(currentSoundEffect);
-
-    gMove = NULL;
-    gRotate = NULL;
-    gDrop = NULL;
-    gClear = NULL;
-    gGameOver = NULL;
-    currentSoundEffect = NULL;*/
     Mix_CloseAudio();
 }
 
