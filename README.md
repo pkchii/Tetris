@@ -43,7 +43,8 @@
 - Class
 
 ## Hướng phát triển:
-- Thêm nhiều khối hình hơn để tăng độ khó.
+- Thêm nhiều khối hình hơn.
+- Thêm chức năng chọn mức độ khó của trò chơi.
 - Thêm chức năng tài khoản.
 - Tạo game nhiều người chơi:
   + Người chơi là đồng đội của nhau: tạo bảng có kích thước lớn hơn để người chơi cùng nhau xếp các khối hình.
@@ -70,9 +71,8 @@
 - Em/mình rất mong được các thầy và các bạn góp ý, chỉ dẫn để hoàn thiện dự án này hơn nữa, để học hỏi nhiều hơn nữa
 
 ## Hướng dẫn cài đặt trên Window:
-- Tải tại phần Release và giải nén
-
-- Nháy đúp chuột vào setup.exe và làm theo hướng dẫn
+- Cách 1: Clone repository về máy và mở file Tetris.sln trên Visual Studio
+- Cách 2: Tải tại phần Release và giải nén sau đó mở file setup.exe và làm theo hướng dẫn
 
 *Trong trường hợp có vấn đề cần thắc mắc, liên hệ với mình qua email 21020287@vnu.edu.vn*
 
