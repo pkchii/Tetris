@@ -19,7 +19,7 @@
 - Mỗi khi người chơi nhấn phím di chuyển hoặc ném sẽ kiểm tra va chạm giữa khối hình và phần hình có sẵn trên bảng. Kiểm tra va chạm bằng cách truy xuất các phần tử của bảng và của khối hình.
 - Khi một hàng ngang của bảng được lấp đầy sẽ xoá hàng ngang đó và di chuyển các hàng ngang bên trên xuống, điểm được tính theo số hàng đã xoá
 - Điểm càng cao tốc độ rơi các khối hình càng nhanh
-- Trò chơi kết thúc khi khối hình mới tạo ra không thể di chuyển được nữa.
+- Trò chơi kết thúc khi khối hình mới tạo ra va chạm với khối hình trên bảng.
 ## Các chức năng đã cài đặt:
 - Menu của game: chơi game, xem bảng điểm cao, thoát khỏi game
 - Bảng điểm cao: hiển thị 5 số điểm cao nhất của trò chơi
