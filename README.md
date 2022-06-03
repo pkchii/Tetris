@@ -31,6 +31,7 @@
 - Chơi lại nhiều lần/thoát game
 - Lưu điểm khi trò chơi kết thúc hoặc khi người chơi chủ động thoát trò chơi
 ### [Link demo](https://youtu.be/w9TxHudA7ww)
+
 ## Các kĩ thuật lập trình đã sử dụng:
 *Game sử dụng ngôn ngữ C/C++*
 - Mảng tĩnh
@@ -54,7 +55,7 @@
   + Người chơi có thể chơi cùng nhau cùng một thời điểm trên các thiết bị khác nhau.
   + Sử dụng database lưu lại tất cả dữ liệu của người chơi và khai thác chúng (tên, lượt chơi, số điểm từng lượt, số điểm trung bình, xếp hạng số điểm, xếp hạng người chơi,...)
   + Bổ sung phần nhiệm vụ hằng ngày và có những thử thách cho người chơi tham gia để thu hút người chơi chơi game nhiều hơn.
-
+### [Phiên bản AI](https://github.com/kimchiiiiii/Tetris_SimpleAI)
 ## Kết luận:
 - Đây là một game kinh điển, không có quá nhiều thuật toán phức tạp tuy nhiên khi thực sự bắt tay vào làm em/mình mới thấy bản thân còn thiếu sót rất rất nhiều.
   + Đồ hoạ chưa được đẹp mắt, âm thanh còn sơ sài.
