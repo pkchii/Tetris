@@ -1,7 +1,7 @@
 # TETRIS
 *Bài tập cuối kì học phần INT2215* 
 - Tên sinh viên: Phạm Kim Chi
-- MSV: 21020752
+- MSV: 21020287
 ## Mô tả chung về trò chơi:
 - Đây là trò chơi Tetris cổ điển. Mục tiêu của trò chơi là di chuyển các khối gạch đang rơi từ từ xuống trong kích thước bảng hình chữ nhật 20 hàng x 10 cột. Chỗ nào có hình rồi thì không di chuyển được tới vị trí đó. Người chơi xếp những khối hình sao cho khối hình lấp đầy 1 hàng ngang để ghi điểm và hàng ngang ấy sẽ biến mất.
 - Người chơi sử dụng bàn phím để chơi:
