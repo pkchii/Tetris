@@ -1,5 +1,5 @@
 # TETRIS
-*Bài tập cuối kì học phần Lập trình nâng cap - INT2215* 
+*Bài tập cuối kì học phần Lập trình nâng cao - INT2215* 
 - Tên sinh viên: Phạm Kim Chi
 - MSV: 21020287
 ## Mô tả chung về trò chơi:
